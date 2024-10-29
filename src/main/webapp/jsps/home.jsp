@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RAJASAAB --- LOVE YOU PRABHAS</title>
+    <title></title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -84,7 +84,7 @@
 </div>
 
 <footer class="footer">
-    <p>&copy; 2024 Maharaj Vijayaram Gajapathi Raj College of Engineering</p>
+    <p>&copy; 2024 Prasanth teja institute of Engineering and technology</p>
 </footer>
 
 </body>
